@@ -1,4 +1,4 @@
-# Alloy Dynamic Navigation Window (iOS/Android native app).
+# Alloy Dynamic Navigation Window
 
 This is a simple and native app for iOS for dynamic and custom navigation windows.
 
