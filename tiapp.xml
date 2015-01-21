@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.ffarias.dev.InfinityNavigationWindow</id>
+    <id>com.ffarias.dev.navigationWindow</id>
     <name>alloyInfinityNavigationWindow</name>
     <version>1.0</version>
     <publisher>felipelunardifarias</publisher>
     <url>http://</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2015 by felipelunardifarias</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
