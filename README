@@ -1,13 +1,17 @@
-Welcome to your Appcelerator Titanium Mobile Project
+# Alloy Dynamic Navigation Window (iOS/Android native app).
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This is a simple and native app for iOS for dynamic and custom navigation windows.
 
-
+## Requirements:
+  - Titanium SDK > 3.0.2.GA
+  - Alloy Framework (included on Titanium Studio)
+  - Widget k0suke glyphicon
+  - Google fonts: (OpenSans-XXX.ttf)
+  
+##Imagens:
+![Alt text](http://dev.fetmobile.net/alloy-dynamic-navigation-window/iOS%20Simulator%20Screen%20Shot%2021.01.2015%2012.55.42.png "alloy-dynamic-navigation-window")
 
 ----------------------------------
-Stuff our legal folk make us say:
-
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
 
