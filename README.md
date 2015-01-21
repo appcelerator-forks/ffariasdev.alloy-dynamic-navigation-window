@@ -10,6 +10,8 @@ This is a simple and native app for iOS for dynamic and custom navigation window
   
 ##Imagens:
 ![Alt text](http://dev.fetmobile.net/alloy-dynamic-navigation-window/iOS%20Simulator%20Screen%20Shot%2021.01.2015%2012.55.42.png "alloy-dynamic-navigation-window")
+![Alt text](http://dev.fetmobile.net/alloy-dynamic-navigation-window/iOS%20Simulator%20Screen%20Shot%2021.01.2015%2012.55.46.png "alloy-dynamic-navigation-window")
+
 
 ----------------------------------
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
