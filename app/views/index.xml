@@ -1,0 +1,43 @@
+<Alloy>
+	<NavigationWindow id="navigationDefault" platform="ios">
+	<Window class="container" navBarHidden ="true">
+		<Label id="titleApp">Alloy Navigation Window</Label>
+		<View  id="menu">
+			<View  id="menu1" controller="window_1" onClick="Alloy.Globals.app.openController">
+				<Widget class="icon" icon="icon-foursquarealt" src="be.k0suke.glyphicon"/>
+				<Label id="titleMenu">Window 1</Label>
+			</View>
+			<View  id="menu2" controller="window_2" onClick="Alloy.Globals.app.openController">
+				<Widget class="icon" icon="icon-analytics-piechart" src="be.k0suke.glyphicon"/>
+				<Label id="titleMenu">Window 2</Label>
+			</View>
+			<View  id="menu3" controller="window_3" onClick="Alloy.Globals.app.openController">
+				<Widget class="icon" icon="icon-livejournalalt" src="be.k0suke.glyphicon"/>
+				<Label id="titleMenu">Window 3</Label>
+			</View>
+			<View  id="menu4" controller="window_4" onClick="Alloy.Globals.app.openController">
+				<Widget class="icon" icon="icon-clipboardalt" src="be.k0suke.glyphicon"/>
+				<Label id="titleMenu">Window 4</Label>
+			</View>
+			<View  id="menu5" controller="window_4" onClick="Alloy.Globals.app.openController">
+				<Widget class="icon" icon="icon-loadingflowccw" src="be.k0suke.glyphicon"/>
+				<Label id="titleMenu">Window 5</Label>
+			</View>
+		</View>
+		
+		<View id="footer">	
+            <View class="tabbedBar">
+            	<View left="20" class="view-button" controller="window_1" onClick="Alloy.Globals.app.openController">
+	                <Widget class="icon-buttons" icon="icon-fullstar" src="be.k0suke.glyphicon" />
+	            </View> 
+            	<View class="view-button" controller="window_2" onClick="Alloy.Globals.app.openController">
+	                <Widget class="icon-buttons" icon="icon-lightbulb-idea" src="be.k0suke.glyphicon" />
+	            </View> 
+            	<View right="20" class="view-button" controller="window_3" onClick="Alloy.Globals.app.openController">
+	                <Widget class="icon-buttons" icon="icon-envelope" src="be.k0suke.glyphicon" />
+	            </View> 
+            </View>
+        </View>
+	</Window>
+	</NavigationWindow>
+</Alloy>

@@ -1,0 +1,172 @@
+".container" : {
+	backgroundColor:"white"
+},
+
+"#titleApp": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#888888",
+	top: 48,
+	font: {fontSize: 32, fontFamily: "OpenSans-CondensedLight"}
+},
+
+"#titleMenu":{
+	width: Ti.UI.SIZE,
+	height: 74,
+	color: "white",
+	font: {fontSize: 14, fontFamily: "OpenSans-CondBold"},
+	right:8
+},
+
+"#menu":{
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	top: 140,
+	left:2,
+	right:2
+},
+
+"#menu1":{
+	top: 0,
+	width: "50%",
+	height: Ti.UI.SIZE,
+	backgroundColor: "#f37b53",
+	left:0,
+	position:"relative",
+	borderColor: "white",
+	borderWidth:"6px"
+},
+
+"#menu2":{
+	top: 0,
+	width: "50%",
+	height: Ti.UI.SIZE,
+	backgroundColor: "#74b749",
+	right:0,
+	position:"relative",
+	borderColor: "white",
+	borderWidth:"6px"
+},
+
+"#menu3":{
+	top: 75,
+	width: "100%",
+	height: Ti.UI.SIZE,
+	backgroundColor: "#55acf1",
+	position:"relative",
+	borderColor: "white",
+	borderWidth:"6px"
+},
+
+"#menu4":{
+	top: 150,
+	width: "40%",
+	height: Ti.UI.SIZE,
+	backgroundColor: "#eea902",
+	left:0,
+	position:"relative",
+	borderColor: "white",
+	borderWidth:"6px"
+},
+
+"#menu5":{
+	top: 150,
+	width: "60%",
+	height: Ti.UI.SIZE,
+	backgroundColor: "#9c714e",
+	right:0,
+	position:"relative",
+	borderColor: "white",
+	borderWidth:"6px"
+},
+
+"#footer":{
+	borderWidth:1,
+	borderColor:"#d1d1d1",
+	backgroundColor:'#dedede',
+	left:0,
+	right:0,
+	bottom:0,
+    index: 10,
+    height:'60'
+},
+
+".tabbedBar" : {
+	width: "100%",
+	height: Ti.UI.SIZE,
+	left:0,
+	right:0,
+	zIndex:10
+},
+
+".view-button":{
+	width: 65,
+	height: 60
+},
+
+
+".icon-buttons": {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    color: '#74b749',
+    font: {
+        fontSize: 28
+    },
+    touchEnabled: true
+},
+
+'.icon': {
+    left:10,
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    color: 'white',
+    font: {
+        fontSize: 28
+    },
+    touchEnabled: true
+},
+
+".header":{
+	borderWidth:1,
+	left:-5,
+	right:-5,
+	top:-2,
+    index: 10,
+    height:'60'
+},
+
+".view-button-header":{
+	width: 100,
+	height: 80,
+	top:0
+},
+
+".view-title-header":{
+    height: Ti.UI.SIZE
+},
+
+".title-header" : {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+    font: {fontSize: 20, fontFamily: "OpenSans-CondensedLight"},
+    color:"#fff",
+    top:25
+},
+
+".view-button-header":{
+	width: 100,
+	height: 80,
+	top:0
+},
+
+".icon-buttons-header": {
+	top:-1,
+	width: 80,
+    left:4,
+    height: 80,
+    color: '#fff',
+    font: {
+        fontSize: 20
+    },
+    touchEnabled: true
+}

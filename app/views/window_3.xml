@@ -1,0 +1,14 @@
+<Alloy>
+    <Window id="window" class="container" navBarHidden ="true">
+    	<View class="header" id="header">
+            <View class="tabbedBar">
+            	<View class="view-button-header" onClick="closeWindow" left="5">
+	                <Widget class="icon-buttons-header" icon="icon-chevron-left" src="be.k0suke.glyphicon" />
+	            </View> 
+            </View>
+            <View class="view-title-header">
+            	<Label class="title-header">Window 3</Label>
+            </View>
+    	</View>
+	</Window>
+</Alloy>
