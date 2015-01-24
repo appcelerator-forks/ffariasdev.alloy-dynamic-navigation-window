@@ -1,9 +1,11 @@
-# Alloy Dynamic Navigation Window
+# Titanium Alloy Dynamic Navigation Window
 
-This is a simple and native app for iOS for dynamic and custom navigation windows.
+This app is built on Titanium platform. It's a simple (but native) app for iOS and Android for navigation for a custom windows. Using too the Alloy framework, widget for icone (glyphicon) and a google font.
+
+If you need help, send me a e-mail on ffarias.dev@gmail.com
 
 ## Requirements:
-  - Titanium SDK > 3.0.2.GA
+  - Titanium SDK > 3.0.2.GA (download in http://www.appcelerator.com)
   - Alloy Framework (included on Titanium Studio)
   - Widget k0suke glyphicon
   - Google fonts: (OpenSans-XXX.ttf)
@@ -17,10 +19,5 @@ This is a simple and native app for iOS for dynamic and custom navigation window
 
 ----------------------------------
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+trademarks of Appcelerator, Inc.
 
