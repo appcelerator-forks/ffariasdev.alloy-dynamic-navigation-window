@@ -10,7 +10,7 @@ If you need help, send me a e-mail on ffarias.dev@gmail.com
   - Widget k0suke glyphicon
   - Google fonts: (OpenSans-XXX.ttf)
   
-##Imagens:
+##Imagens (iphone 5s):
 ![Alt text](http://dev.fetmobile.net/alloy-dynamic-navigation-window/iOS%20Simulator%20Screen%20Shot%2021.01.2015%2012.55.42.png "alloy-dynamic-navigation-window")
 
 ![Alt text](http://dev.fetmobile.net/alloy-dynamic-navigation-window/iOS%20Simulator%20Screen%20Shot%2021.01.2015%2012.55.46.png "alloy-dynamic-navigation-window")
