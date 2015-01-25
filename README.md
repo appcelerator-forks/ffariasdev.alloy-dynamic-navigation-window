@@ -1,6 +1,6 @@
 # Titanium Alloy Dynamic Navigation Window
 
-This app is built on Titanium platform. It's a simple (but native) app for iOS and Android for navigation for a custom windows. Using too the Alloy framework, widget for icone (glyphicon) and a google font.
+This app is built on Titanium platform. It's a app for iOS and Android for navigation to custom windows. Using Alloy framework, widget for icone (glyphicon) and a google font.
 
 If you need help, send me a e-mail on ffarias.dev@gmail.com
 
