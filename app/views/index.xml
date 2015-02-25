@@ -27,8 +27,8 @@
 		
 		<View id="footer">	
             <View class="tabbedBar">
-            	<View left="20" class="view-button" controller="window_1" onClick="Alloy.Globals.app.openController">
-	                <Widget class="icon-buttons" icon="icon-fullstar" src="be.k0suke.glyphicon" />
+            	<View left="20" class="view-button" controller="window_1" value="I am from index.xml" onClick="Alloy.Globals.app.openController">
+	                <Widget class="icon-buttons" icon="icon-fullstar" value="I am from index.xml" src="be.k0suke.glyphicon" />
 	            </View> 
             	<View class="view-button" controller="window_2" onClick="Alloy.Globals.app.openController">
 	                <Widget class="icon-buttons" icon="icon-lightbulb-idea" src="be.k0suke.glyphicon" />

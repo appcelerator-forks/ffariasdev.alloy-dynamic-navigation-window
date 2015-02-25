@@ -24,10 +24,11 @@ return {
 	/*
 	* Get the directive 'controller' from your xml tag
 	*/
-	openController : function(){
+	openController : function(data){
 	   	
 	   	var c = this;
-	   	
+	   	var data = data;
+	   	var dataValue = data.source.value; 
 		c.setTouchEnabled(false);
 	   	
 		c.setOpacity(0.5);
@@ -35,7 +36,7 @@ return {
 		setTimeout(function(){
 			c.setOpacity(1);
 			
-			var controllers = Alloy.createController(c.controller).getView();
+			var controllers = Alloy.createController(c.controller, {passedData: dataValue}).getView(); // passes value from an index.xml element (e.g. view, button) to the controller and making it available to other windows
 		    Alloy.Globals.navigationDefault.openWindow(controllers);
 			
 		},200);
